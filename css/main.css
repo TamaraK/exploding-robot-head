@@ -37,3 +37,7 @@ body {
 .robot-head-left {
   width: 125px;
 }
+
+.robot-head-left {
+  float: left;
+}
